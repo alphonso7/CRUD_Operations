@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "name": "Updated Item",
+      "description": "This is an updated item",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Second Post",
+      "author": "Jane Doe"
+    },
+    {
+      "id": "b5e3",
+      "title": "fourth Post",
+      "author": "Jan Will"
+    },
+    {
+      "id": "640f",
+      "title": "fourth Post",
+      "author": "Jan Will"
+    }
+  ],
+  "books": [
+    {
+      "id": "904",
+      "title": " science",
+      "author": "Jayesh"
+    }
+  ]
+}

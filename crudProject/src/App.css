@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0px auto;
+  padding: 2rem;
+  text-align: center;
+  color: rgb(85, 21, 21);
+}
+ul {
+  list-style-type: decimal;
+  font-weight: 500;
+}
+.listOfItems {
+  border: 3px solid black;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  padding: 5px;
+}
+button:hover{
+  box-shadow: 5px 5px 20px 3px aqua;
+}
